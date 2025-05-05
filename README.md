@@ -5,7 +5,7 @@ This repository contains the solution for Homework 1 of the Advanced Methods in 
 ## Repository Structure
 
 ### Main Notebook
-- hw1_sentiment_analysis_RT.ipynb: Jupyter notebook containing the complete solutions to all homework questions, including rule-based sentiment analysis, machine learning approaches with TF-IDF, and deep learning methods with Word2Vec embeddings.
+- `hw1_sentiment_analysis_RT.ipynb`: Jupyter notebook containing the complete solutions to all homework questions.
 
 ### Library Package
 - `hw1_library/`: A Python package containing classes and utility functions used in the notebook:
